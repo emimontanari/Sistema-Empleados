@@ -1,0 +1,13 @@
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\bin\Debug\SistemaEmpleados.exe.config
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\bin\Debug\SistemaEmpleados.exe
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\bin\Debug\SistemaEmpleados.pdb
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmAcercaDe.resources
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmCantidadProducidaDeUnEmpleado.resources
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.SistemaDeEmpleados.resources
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.Properties.Resources.resources
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.exe
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.pdb
+C:\Mac\Home\Documents\Laboratorio\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmListarTotalProducidoPorEmpleado.resources

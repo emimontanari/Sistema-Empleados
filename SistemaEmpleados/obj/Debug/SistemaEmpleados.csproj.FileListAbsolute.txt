@@ -1,0 +1,17 @@
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\bin\Debug\SistemaEmpleados.exe.config
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\bin\Debug\SistemaEmpleados.exe
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\bin\Debug\SistemaEmpleados.pdb
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.csproj.AssemblyReference.cache
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmAcercade.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmNuevoEmpleado.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmSistemaEmpleados.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.Properties.Resources.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.csproj.GenerateResource.cache
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.exe
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.pdb
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmListadoGeneralEmpleados.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmListadoEmpleadosCategoria.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmListadoEmpleadoSueldo.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmConsultaEmpleado.resources
+C:\Users\emimontanari\source\repos\SistemaEmpleados\SistemaEmpleados\obj\Debug\SistemaEmpleados.frmBusquedaEmpleado.resources
